@@ -1,0 +1,7 @@
+C:\Users\Sany\source\repos\OOp\reterned\reterned\bin\Debug\reterned.exe.config
+C:\Users\Sany\source\repos\OOp\reterned\reterned\bin\Debug\reterned.exe
+C:\Users\Sany\source\repos\OOp\reterned\reterned\bin\Debug\reterned.pdb
+C:\Users\Sany\source\repos\OOp\reterned\reterned\obj\Debug\reterned.csproj.AssemblyReference.cache
+C:\Users\Sany\source\repos\OOp\reterned\reterned\obj\Debug\reterned.csproj.CoreCompileInputs.cache
+C:\Users\Sany\source\repos\OOp\reterned\reterned\obj\Debug\reterned.exe
+C:\Users\Sany\source\repos\OOp\reterned\reterned\obj\Debug\reterned.pdb

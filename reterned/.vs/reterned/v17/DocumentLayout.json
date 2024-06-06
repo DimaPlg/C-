@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|c:\\users\\sany\\source\\repos\\oop\\reterned\\reterned\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|solutionrelative:reterned\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|c:\\users\\sany\\source\\repos\\oop\\reterned\\reterned\\class_1\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|solutionrelative:reterned\\class_1\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|c:\\users\\sany\\source\\repos\\oop\\reterned\\reterned\\methods\\inputmethodforlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|solutionrelative:reterned\\methods\\inputmethodforlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|c:\\users\\sany\\source\\repos\\oop\\reterned\\reterned\\methods\\outputmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|solutionrelative:reterned\\methods\\outputmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutputMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Methods\\OutputMethod.cs",
+              "RelativeDocumentMoniker": "reterned\\Methods\\OutputMethod.cs",
+              "ToolTip": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Methods\\OutputMethod.cs",
+              "RelativeToolTip": "reterned\\Methods\\OutputMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:48:40.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputMethodForList.cs",
+              "DocumentMoniker": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Methods\\InputMethodForList.cs",
+              "RelativeDocumentMoniker": "reterned\\Methods\\InputMethodForList.cs",
+              "ToolTip": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Methods\\InputMethodForList.cs",
+              "RelativeToolTip": "reterned\\Methods\\InputMethodForList.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:43:54.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persons.cs",
+              "DocumentMoniker": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\class_1\\Persons.cs",
+              "RelativeDocumentMoniker": "reterned\\class_1\\Persons.cs",
+              "ToolTip": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\class_1\\Persons.cs",
+              "RelativeToolTip": "reterned\\class_1\\Persons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:50:04.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Program.cs",
+              "RelativeDocumentMoniker": "reterned\\Program.cs",
+              "ToolTip": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Program.cs",
+              "RelativeToolTip": "reterned\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:48:13.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
