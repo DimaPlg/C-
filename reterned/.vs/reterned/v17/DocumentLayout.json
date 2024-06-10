@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\",
+  "WorkspaceRootPath": "D:\\VisStudioCod\\VisStProg\\reterned\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|c:\\users\\sany\\source\\repos\\oop\\reterned\\reterned\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|solutionrelative:reterned\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|c:\\users\\sany\\source\\repos\\oop\\reterned\\reterned\\class_1\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|d:\\visstudiocod\\visstprog\\reterned\\reterned\\class_1\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|solutionrelative:reterned\\class_1\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|c:\\users\\sany\\source\\repos\\oop\\reterned\\reterned\\methods\\inputmethodforlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|D:\\VisStudioCod\\VisStProg\\reterned\\reterned\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|solutionrelative:reterned\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|D:\\VisStudioCod\\VisStProg\\reterned\\reterned\\methods\\inputmethodforlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|solutionrelative:reterned\\methods\\inputmethodforlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|c:\\users\\sany\\source\\repos\\oop\\reterned\\reterned\\methods\\outputmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|D:\\VisStudioCod\\VisStProg\\reterned\\reterned\\methods\\outputmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74F82072-E792-4865-BE82-33FC800BB944}|reterned\\reterned.csproj|solutionrelative:reterned\\methods\\outputmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,59 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "OutputMethod.cs",
-              "DocumentMoniker": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Methods\\OutputMethod.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\reterned\\reterned\\Methods\\OutputMethod.cs",
               "RelativeDocumentMoniker": "reterned\\Methods\\OutputMethod.cs",
-              "ToolTip": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Methods\\OutputMethod.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\reterned\\reterned\\Methods\\OutputMethod.cs",
               "RelativeToolTip": "reterned\\Methods\\OutputMethod.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:48:40.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T13:48:40.528Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "InputMethodForList.cs",
-              "DocumentMoniker": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Methods\\InputMethodForList.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\reterned\\reterned\\Methods\\InputMethodForList.cs",
               "RelativeDocumentMoniker": "reterned\\Methods\\InputMethodForList.cs",
-              "ToolTip": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Methods\\InputMethodForList.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\reterned\\reterned\\Methods\\InputMethodForList.cs",
               "RelativeToolTip": "reterned\\Methods\\InputMethodForList.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAhAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:43:54.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T13:43:54.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Persons.cs",
-              "DocumentMoniker": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\class_1\\Persons.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\reterned\\reterned\\class_1\\Persons.cs",
               "RelativeDocumentMoniker": "reterned\\class_1\\Persons.cs",
-              "ToolTip": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\class_1\\Persons.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\reterned\\reterned\\class_1\\Persons.cs",
               "RelativeToolTip": "reterned\\class_1\\Persons.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T12:50:04.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Program.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\reterned\\reterned\\Program.cs",
               "RelativeDocumentMoniker": "reterned\\Program.cs",
-              "ToolTip": "C:\\Users\\Sany\\source\\repos\\OOp\\reterned\\reterned\\Program.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\reterned\\reterned\\Program.cs",
               "RelativeToolTip": "reterned\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T12:48:13.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T12:48:13.059Z"
             }
           ]
         }

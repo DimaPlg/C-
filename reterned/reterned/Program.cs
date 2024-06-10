@@ -9,10 +9,10 @@ namespace reterned
     {
         static void Main(string[] args)
         {
-            List<Persons> list = new List<Persons>(InputMethodForList.InputList());
-            foreach (Persons person in list)
+            List<User> list = new List<User>(InputMethodForList.ToList());
+            foreach (User person in list)
             {
-                person.Print();
+                Console.WriteLine(person.email);
             }
         }
         

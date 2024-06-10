@@ -9,15 +9,15 @@ namespace reterned.Methods
 {
     public static class InputMethodForList
     {
-        public static List<Persons> InputList() 
+        public static List<User> ToList() 
         {
-            List<Persons> list = new List<Persons>();
+            var list = new List<User>();
 
             bool res = true;
 
             while (res == true)
             {
-                Persons person = new Persons();
+                User person = new User();
           
                 Console.WriteLine("Input Id: ");
                 person.Id = Int32.Parse(Console.ReadLine());
@@ -26,8 +26,11 @@ namespace reterned.Methods
                 person.Name = Console.ReadLine();
 
                 Console.WriteLine("Year of born: ");
-                person.YearBorn = Int32.Parse(Console.ReadLine());
-                
+                person.YearBirth = Int32.Parse(Console.ReadLine());
+
+                Console.WriteLine("Email: ");
+                person.email = Console.ReadLine();
+
                 list.Add(person);
 
                 Console.WriteLine(("Do yoy want to end? \r\n if yes input - 1 \r\n else input what you want"));
