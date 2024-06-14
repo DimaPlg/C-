@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisStudioCod\\VisStProg\\bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B27A515-3D18-4F32-9CC6-F6CFD386333A}|bank\\bank.csproj|d:\\visstudiocod\\visstprog\\bank\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B27A515-3D18-4F32-9CC6-F6CFD386333A}|bank\\bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisStudioCod\\VisStProg\\bank\\bank\\obj\\Debug\\net8.0\\bank.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bank\\obj\\Debug\\net8.0\\bank.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B27A515-3D18-4F32-9CC6-F6CFD386333A}|bank\\bank.csproj|d:\\visstudiocod\\visstprog\\bank\\bank\\persons\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B27A515-3D18-4F32-9CC6-F6CFD386333A}|bank\\bank.csproj|solutionrelative:bank\\persons\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B27A515-3D18-4F32-9CC6-F6CFD386333A}|bank\\bank.csproj|d:\\visstudiocod\\visstprog\\bank\\bank\\dbcore\\dbreserch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B27A515-3D18-4F32-9CC6-F6CFD386333A}|bank\\bank.csproj|solutionrelative:bank\\dbcore\\dbreserch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B27A515-3D18-4F32-9CC6-F6CFD386333A}|bank\\bank.csproj|d:\\visstudiocod\\visstprog\\bank\\bank\\bank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B27A515-3D18-4F32-9CC6-F6CFD386333A}|bank\\bank.csproj|solutionrelative:bank\\bank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bank.AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\bank\\bank\\obj\\Debug\\net8.0\\bank.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "bank\\obj\\Debug\\net8.0\\bank.AssemblyInfo.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\bank\\bank\\obj\\Debug\\net8.0\\bank.AssemblyInfo.cs",
+              "RelativeToolTip": "bank\\obj\\Debug\\net8.0\\bank.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:38:38.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbReserch.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\bank\\bank\\DbCore\\DbReserch.cs",
+              "RelativeDocumentMoniker": "bank\\DbCore\\DbReserch.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\bank\\bank\\DbCore\\DbReserch.cs",
+              "RelativeToolTip": "bank\\DbCore\\DbReserch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:34:12.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "user.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\bank\\bank\\Persons\\user.cs",
+              "RelativeDocumentMoniker": "bank\\Persons\\user.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\bank\\bank\\Persons\\user.cs",
+              "RelativeToolTip": "bank\\Persons\\user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:25:01.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bank",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\bank\\bank\\bank.csproj",
+              "RelativeDocumentMoniker": "bank\\bank.csproj",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\bank\\bank\\bank.csproj",
+              "RelativeToolTip": "bank\\bank.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T10:14:39.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\bank\\bank\\Program.cs",
+              "RelativeDocumentMoniker": "bank\\Program.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\bank\\bank\\Program.cs",
+              "RelativeToolTip": "bank\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:12:55.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
