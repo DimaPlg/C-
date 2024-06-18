@@ -1,0 +1,7 @@
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BaseProj.exe
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BaseProj.dll
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BaseProj.deps.json
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BaseProj.runtimeconfig.json
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BaseProj.pdb

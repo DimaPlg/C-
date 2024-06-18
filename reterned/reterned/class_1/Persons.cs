@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
+using System.ComponentModel.DataAnnotations;
 
 
 namespace reterned.class_1
@@ -20,43 +22,35 @@ namespace reterned.class_1
 
         public int Id { get; set; }
 
+        [property: Required]
+        [property: StringLength(50, MinimumLength = 3)]
         public string Name { get; set; }
 
+        [property: Range(1907, 2024)]
         public int YearBirth { get; set; }
 
-        public int Age
-        {
-            get => MaxYearB - YearBirth;
-            set 
-            {
-                if (MinYearB > YearBirth && YearBirth > MaxYearB) 
-                {
-                    throw new ArgumentOutOfRangeException(nameof(value),
-                      "The valid range is between {MinYearB} and {MaxYearB}.");
 
-                }
-            }
-        }
+        /* public string email
+         {
+             get => email;
+             set 
+             {
+                 foreach (string s in EndEmail) 
+                 {
+                     if (email.Contains(s) == true) break;
+                     else email = "Error incorrect email";
+                 }
+             }
 
-        public string email
-        { 
-            set 
-            {
-                foreach (string s in EndEmail) 
-                {
-                    if (email.Contains(s) == true) break;
-                    else email = "Error incorrect email";
-                }
-            }
-            get => email;
-        }
+         }*/
 
 
         //public string
 
+
         public override string ToString()
         {
-            return "Id: " + Id + "\r\nName: " + Name + "\r\nYear of birth: " + YearBirth + "\r\nAge: " + Age + "\r\nEmail: " + email;
+            return "Id: " + Id + "\r\nName: " + Name + "\r\nYear of birth: " + YearBirth + "\r\nAge: " + (MaxYearB - YearBirth) + "\r\nEmail: ";// email;
         }
     }
 
@@ -65,16 +59,18 @@ namespace reterned.class_1
         public double time;
         public double Time 
         { 
-            get => Time = 0; 
-            set => Time = value; 
+            get; 
+            set; 
         }
 
         public double money;
+
         public double Money
         {
-            get => Money = 0;
-            set => Money = value;
+            get;
+            set;
         }
+
 
         public override string ToString()
         {

@@ -5,3 +5,12 @@ C:\Users\Sany\source\repos\OOp\reterned\reterned\bin\Debug\reterned.exe
 C:\Users\Sany\source\repos\OOp\reterned\reterned\bin\Debug\reterned.pdb
 C:\Users\Sany\source\repos\OOp\reterned\reterned\obj\Debug\reterned.exe
 C:\Users\Sany\source\repos\OOp\reterned\reterned\obj\Debug\reterned.pdb
+D:\VisStudioCod\VisStProg\reterned\reterned\bin\Debug\reterned.exe.config
+D:\VisStudioCod\VisStProg\reterned\reterned\bin\Debug\reterned.exe
+D:\VisStudioCod\VisStProg\reterned\reterned\bin\Debug\reterned.pdb
+D:\VisStudioCod\VisStProg\reterned\reterned\obj\Debug\reterned.csproj.AssemblyReference.cache
+D:\VisStudioCod\VisStProg\reterned\reterned\obj\Debug\reterned.csproj.CoreCompileInputs.cache
+D:\VisStudioCod\VisStProg\reterned\reterned\obj\Debug\reterned.exe
+D:\VisStudioCod\VisStProg\reterned\reterned\obj\Debug\reterned.pdb
+D:\VisStudioCod\VisStProg\reterned\reterned\bin\Debug\System.ComponentModel.Annotations.dll
+D:\VisStudioCod\VisStProg\reterned\reterned\obj\Debug\reterned.csproj.Up2Date

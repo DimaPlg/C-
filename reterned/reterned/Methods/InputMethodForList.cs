@@ -27,10 +27,10 @@ namespace reterned.Methods
 
                 Console.WriteLine("Year of born: ");
                 person.YearBirth = Int32.Parse(Console.ReadLine());
-
+/*
                 Console.WriteLine("Email: ");
                 person.email = Console.ReadLine();
-
+*/
                 list.Add(person);
 
                 Console.WriteLine(("Do yoy want to end? \r\n if yes input - 1 \r\n else input what you want"));
