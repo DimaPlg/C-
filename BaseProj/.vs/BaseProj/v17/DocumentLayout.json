@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "D:\\VisStudioCod\\VisStProg\\BaseProj\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{05FC91F2-55A3-4754-A4A0-7B9887EB3A84}|BaseProj\\BaseProj.csproj|d:\\visstudiocod\\visstprog\\baseproj\\baseproj\\baseproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05FC91F2-55A3-4754-A4A0-7B9887EB3A84}|BaseProj\\BaseProj.csproj|solutionrelative:baseproj\\baseproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05FC91F2-55A3-4754-A4A0-7B9887EB3A84}|BaseProj\\BaseProj.csproj|d:\\visstudiocod\\visstprog\\baseproj\\baseproj\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{05FC91F2-55A3-4754-A4A0-7B9887EB3A84}|BaseProj\\BaseProj.csproj|solutionrelative:baseproj\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FC91F2-55A3-4754-A4A0-7B9887EB3A84}|BaseProj\\BaseProj.csproj|d:\\visstudiocod\\visstprog\\baseproj\\baseproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05FC91F2-55A3-4754-A4A0-7B9887EB3A84}|BaseProj\\BaseProj.csproj|solutionrelative:baseproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05FC91F2-55A3-4754-A4A0-7B9887EB3A84}|BaseProj\\BaseProj.csproj|d:\\visstudiocod\\visstprog\\baseproj\\baseproj\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05FC91F2-55A3-4754-A4A0-7B9887EB3A84}|BaseProj\\BaseProj.csproj|solutionrelative:baseproj\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F979D38D-524B-4B95-AF9F-759AE2FC393A}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\visstudiocod\\visstprog\\baseproj\\bookstore.dataaccess\\bookstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F979D38D-524B-4B95-AF9F-759AE2FC393A}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\bookstore.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FC12BE-D0E2-4A08-96E9-6187D2422180}|BookStore.Core\\BookStore.Core.csproj|d:\\visstudiocod\\visstprog\\baseproj\\bookstore.core\\abstractions\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FC12BE-D0E2-4A08-96E9-6187D2422180}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\abstractions\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F979D38D-524B-4B95-AF9F-759AE2FC393A}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\visstudiocod\\visstprog\\baseproj\\bookstore.dataaccess\\reposotories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F979D38D-524B-4B95-AF9F-759AE2FC393A}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\reposotories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FC12BE-D0E2-4A08-96E9-6187D2422180}|BookStore.Core\\BookStore.Core.csproj|d:\\visstudiocod\\visstprog\\baseproj\\bookstore.core\\bookstore.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43FC12BE-D0E2-4A08-96E9-6187D2422180}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\bookstore.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F979D38D-524B-4B95-AF9F-759AE2FC393A}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\visstudiocod\\visstprog\\baseproj\\bookstore.dataaccess\\entites\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F979D38D-524B-4B95-AF9F-759AE2FC393A}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\entites\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F979D38D-524B-4B95-AF9F-759AE2FC393A}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\visstudiocod\\visstprog\\baseproj\\bookstore.dataaccess\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F979D38D-524B-4B95-AF9F-759AE2FC393A}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F979D38D-524B-4B95-AF9F-759AE2FC393A}|BookStore.DataAccess\\BookStore.DataAccess.csproj|d:\\visstudiocod\\visstprog\\baseproj\\bookstore.dataaccess\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F979D38D-524B-4B95-AF9F-759AE2FC393A}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\bookstoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FC12BE-D0E2-4A08-96E9-6187D2422180}|BookStore.Core\\BookStore.Core.csproj|d:\\visstudiocod\\visstprog\\baseproj\\bookstore.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FC12BE-D0E2-4A08-96E9-6187D2422180}|BookStore.Core\\BookStore.Core.csproj|solutionrelative:bookstore.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +58,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BaseProj\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BaseProj\\appsettings.Development.json",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BaseProj\\appsettings.Development.json",
+              "RelativeToolTip": "BaseProj\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T11:20:20.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BaseProj\\Program.cs",
+              "RelativeDocumentMoniker": "BaseProj\\Program.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BaseProj\\Program.cs",
+              "RelativeToolTip": "BaseProj\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:11:20.929Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BaseProj.csproj",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BaseProj\\BaseProj.csproj",
+              "RelativeDocumentMoniker": "BaseProj\\BaseProj.csproj",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BaseProj\\BaseProj.csproj",
+              "RelativeToolTip": "BaseProj\\BaseProj.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T11:10:02.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.Core\\Abstractions\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.Core\\Abstractions\\IBookRepository.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.Core\\Abstractions\\IBookRepository.cs",
+              "RelativeToolTip": "BookStore.Core\\Abstractions\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:07:02.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.DataAccess\\Reposotories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Reposotories\\BookRepository.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.DataAccess\\Reposotories\\BookRepository.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Reposotories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:40:28.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Configurations\\BookConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:29:15.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.DataAccess\\Entites\\BookEntity.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Entites\\BookEntity.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.DataAccess\\Entites\\BookEntity.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Entites\\BookEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:22:40.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookStore.DataAccess.csproj",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.DataAccess\\BookStore.DataAccess.csproj",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\BookStore.DataAccess.csproj",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.DataAccess\\BookStore.DataAccess.csproj",
+              "RelativeToolTip": "BookStore.DataAccess\\BookStore.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T10:21:37.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookStore.Core.csproj",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.Core\\BookStore.Core.csproj",
+              "RelativeDocumentMoniker": "BookStore.Core\\BookStore.Core.csproj",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.Core\\BookStore.Core.csproj",
+              "RelativeToolTip": "BookStore.Core\\BookStore.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T10:04:37.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BaseProj\\Dockerfile",
               "RelativeDocumentMoniker": "BaseProj\\Dockerfile",
               "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BaseProj\\Dockerfile",
               "RelativeToolTip": "BaseProj\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-18T09:20:01.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T09:20:01.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookStoreDbContext.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.DataAccess\\BookStoreDbContext.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\BookStoreDbContext.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.DataAccess\\BookStoreDbContext.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\BookStoreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:16:28.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookStore.Core\\Models\\Book.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\BaseProj\\BookStore.Core\\Models\\Book.cs",
+              "RelativeToolTip": "BookStore.Core\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:05:06.932Z"
             }
           ]
         }

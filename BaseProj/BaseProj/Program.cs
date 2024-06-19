@@ -1,11 +1,22 @@
+using BookStore.DataAccess;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+builder.Services.AddControllers();
 builder.Services.AddRazorPages();
+builder.Services.AddEndpointsApiExplorer();
+
+builder.Services.AddDbContext<BookStoreDbContext>(
+    options =>
+    {
+        options.UseNpgsql(builder.Configuration.GetConnectionString(nameof(BookStoreDbContext)));
+    }
+    );
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");

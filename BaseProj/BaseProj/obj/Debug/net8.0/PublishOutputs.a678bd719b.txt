@@ -2,6 +2,15 @@ D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BaseProj
 D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
 D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\appsettings.json
 D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BaseProj.dll
-D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BaseProj.deps.json
 D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BaseProj.runtimeconfig.json
 D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BaseProj.pdb
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\Npgsql.dll
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BookStore.Core.dll
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BookStore.DataAccess.dll
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BookStore.DataAccess.pdb
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BookStore.Core.pdb
+D:\VisStudioCod\VisStProg\BaseProj\BaseProj\obj\Debug\net8.0\PubTmp\Out\BaseProj.deps.json

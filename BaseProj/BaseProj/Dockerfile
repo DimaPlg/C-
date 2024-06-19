@@ -12,6 +12,8 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0-nanoserver-1809 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["BaseProj/BaseProj.csproj", "BaseProj/"]
+COPY ["BookStore.DataAccess/BookStore.DataAccess.csproj", "BookStore.DataAccess/"]
+COPY ["BookStore.Core/BookStore.Core.csproj", "BookStore.Core/"]
 RUN dotnet restore "./BaseProj/BaseProj.csproj"
 COPY . .
 WORKDIR "/src/BaseProj"
