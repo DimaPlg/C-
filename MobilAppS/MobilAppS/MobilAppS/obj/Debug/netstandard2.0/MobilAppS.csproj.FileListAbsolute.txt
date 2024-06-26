@@ -1,0 +1,16 @@
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\bin\Debug\netstandard2.0\MobilAppS.deps.json
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\bin\Debug\netstandard2.0\MobilAppS.dll
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\bin\Debug\netstandard2.0\ref\MobilAppS.dll
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\bin\Debug\netstandard2.0\MobilAppS.pdb
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\MobilAppS.csproj.AssemblyReference.cache
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\MobilAppS.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\MobilAppS.AssemblyInfoInputs.cache
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\MobilAppS.AssemblyInfo.cs
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\MobilAppS.csproj.CoreCompileInputs.cache
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\MobilAppS.sourcelink.json
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\MobilAppS.dll
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\refint\MobilAppS.dll
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\MobilAppS.pdb

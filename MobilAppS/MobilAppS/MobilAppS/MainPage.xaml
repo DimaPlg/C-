@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobilAppS.MainPage">
+
+    <StackLayout>
+        <Label Text="registration" FontSize="25"/>
+        <Entry x:Name="nameField" Placeholder="Enter name"/>
+        <Entry x:Name="emailField" Placeholder="Enter email"/>
+        <Entry x:Name="passField" Placeholder="Enter password" IsPassword="True"/>
+
+        <Label Text="Are you sure?"/>
+        <CheckBox x:Name="chekField"/>
+
+        <Button x:Name ="buttonSend" Text="Send" Clicked="ButtonClick"/>
+        <Label x:Name="errorText" Text="" TextColor="Red" FontSize="15"/>
+
+    </StackLayout>
+</ContentPage>

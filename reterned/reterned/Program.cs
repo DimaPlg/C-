@@ -41,8 +41,7 @@ namespace reterned
             //arr = ShakerSort.Shaker(arr);
             arr = InserionSort.Insert(arr);
 
-
-                Console.WriteLine();
+            Console.WriteLine();
 
             for (int i = 0; i < leng; i++)
             {

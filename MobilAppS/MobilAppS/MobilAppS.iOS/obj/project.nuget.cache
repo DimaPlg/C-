@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DUMZ50Zl0n4=",
+  "success": true,
+  "projectFilePath": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS.iOS\\MobilAppS.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sany\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sany\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Sany\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
