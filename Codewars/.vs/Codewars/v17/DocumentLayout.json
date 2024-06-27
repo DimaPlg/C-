@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\VisStudioCod\\VisStProg\\Codewars\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CF5FA0B-07C8-49BB-AE89-393933AD6504}|Codewars\\Codewars.csproj|d:\\visstudiocod\\visstprog\\codewars\\codewars\\sumofinterv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CF5FA0B-07C8-49BB-AE89-393933AD6504}|Codewars\\Codewars.csproj|solutionrelative:codewars\\sumofinterv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CF5FA0B-07C8-49BB-AE89-393933AD6504}|Codewars\\Codewars.csproj|d:\\visstudiocod\\visstprog\\codewars\\codewars\\simplef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5FA0B-07C8-49BB-AE89-393933AD6504}|Codewars\\Codewars.csproj|solutionrelative:codewars\\simplef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CF5FA0B-07C8-49BB-AE89-393933AD6504}|Codewars\\Codewars.csproj|d:\\visstudiocod\\visstprog\\codewars\\codewars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CF5FA0B-07C8-49BB-AE89-393933AD6504}|Codewars\\Codewars.csproj|solutionrelative:codewars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5FA0B-07C8-49BB-AE89-393933AD6504}|Codewars\\Codewars.csproj|d:\\visstudiocod\\visstprog\\codewars\\codewars\\sumofinterv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5FA0B-07C8-49BB-AE89-393933AD6504}|Codewars\\Codewars.csproj|solutionrelative:codewars\\sumofinterv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CF5FA0B-07C8-49BB-AE89-393933AD6504}|Codewars\\Codewars.csproj|d:\\visstudiocod\\visstprog\\codewars\\codewars\\int32_to_ipv4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CF5FA0B-07C8-49BB-AE89-393933AD6504}|Codewars\\Codewars.csproj|solutionrelative:codewars\\int32_to_ipv4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SimpleF.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\Codewars\\Codewars\\SimpleF.cs",
+              "RelativeDocumentMoniker": "Codewars\\SimpleF.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\Codewars\\Codewars\\SimpleF.cs",
+              "RelativeToolTip": "Codewars\\SimpleF.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:26:44.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "int32_to_IPv4.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\Codewars\\Codewars\\int32_to_IPv4.cs",
+              "RelativeDocumentMoniker": "Codewars\\int32_to_IPv4.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\Codewars\\Codewars\\int32_to_IPv4.cs",
+              "RelativeToolTip": "Codewars\\int32_to_IPv4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:55:21.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SumOfInterv.cs",
               "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\Codewars\\Codewars\\SumOfInterv.cs",
               "RelativeDocumentMoniker": "Codewars\\SumOfInterv.cs",
               "ToolTip": "D:\\VisStudioCod\\VisStProg\\Codewars\\Codewars\\SumOfInterv.cs",
               "RelativeToolTip": "Codewars\\SumOfInterv.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAmwGoAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T14:57:17.692Z",
               "EditorCaption": ""
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "Codewars\\Program.cs",
               "ToolTip": "D:\\VisStudioCod\\VisStProg\\Codewars\\Codewars\\Program.cs",
               "RelativeToolTip": "Codewars\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T15:48:33.267Z",
               "EditorCaption": ""

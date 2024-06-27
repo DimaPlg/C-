@@ -1,6 +1,7 @@
 ﻿using Codewars;
 using System;
 using System.Linq;
+using System.Net;
 
 
 internal class Program
@@ -15,6 +16,20 @@ internal class Program
 
         Console.WriteLine(SumOfInterv.SumInt(intervals));
 
+        uint s = 2149583361;
+        var ip = new IPAddress(s);
+        string str = "ggh5gggs8j";
+
+        bool res = SimpleF.HappyG(str);
+
+        if(res == true)
+            Console.WriteLine("yes");
+        else if(res == false)
+            Console.WriteLine("no");
+
+        Console.WriteLine(ip);
         Console.ReadLine();
+
+
     }
 }
