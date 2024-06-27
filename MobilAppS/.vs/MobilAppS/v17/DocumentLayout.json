@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|d:\\visstudiocod\\visstprog\\mobilapps\\mobilapps\\mobilapps\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|solutionrelative:mobilapps\\mobilapps\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|d:\\visstudiocod\\visstprog\\mobilapps\\mobilapps\\mobilapps\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|solutionrelative:mobilapps\\mobilapps\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|d:\\visstudiocod\\visstprog\\mobilapps\\mobilapps\\mobilapps\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|solutionrelative:mobilapps\\mobilapps\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MobilAppS\\MobilAppS\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|d:\\visstudiocod\\visstprog\\mobilapps\\mobilapps\\mobilapps\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|solutionrelative:mobilapps\\mobilapps\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|d:\\visstudiocod\\visstprog\\mobilapps\\mobilapps\\mobilapps\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|solutionrelative:mobilapps\\mobilapps\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|d:\\visstudiocod\\visstprog\\mobilapps\\mobilapps\\mobilapps\\additem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|solutionrelative:mobilapps\\mobilapps\\additem.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|d:\\visstudiocod\\visstprog\\mobilapps\\mobilapps\\mobilapps\\mobilapps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|solutionrelative:mobilapps\\mobilapps\\mobilapps.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|d:\\visstudiocod\\visstprog\\mobilapps\\mobilapps\\mobilapps\\additem.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|solutionrelative:mobilapps\\mobilapps\\additem.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|d:\\visstudiocod\\visstprog\\mobilapps\\mobilapps\\mobilapps\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|solutionrelative:mobilapps\\mobilapps\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|d:\\visstudiocod\\visstprog\\mobilapps\\mobilapps\\mobilapps\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{C2B3A5A2-E429-42C3-96A9-9A0F70101E72}|MobilAppS\\MobilAppS\\MobilAppS.csproj|solutionrelative:mobilapps\\mobilapps\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +46,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MobilAppS\\MobilAppS\\MainPage.xaml.cs",
               "ToolTip": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\MainPage.xaml.cs",
               "RelativeToolTip": "MobilAppS\\MobilAppS\\MainPage.xaml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAswCMAAAAnAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T13:42:45.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MobilAppS\\MobilAppS\\App.xaml.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\App.xaml.cs",
+              "RelativeToolTip": "MobilAppS\\MobilAppS\\App.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:39:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\MainPage.xaml",
               "RelativeDocumentMoniker": "MobilAppS\\MobilAppS\\MainPage.xaml",
               "ToolTip": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\MainPage.xaml",
               "RelativeToolTip": "MobilAppS\\MobilAppS\\MainPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-26T13:42:26.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "AddItem.xaml.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\AddItem.xaml.cs",
+              "RelativeDocumentMoniker": "MobilAppS\\MobilAppS\\AddItem.xaml.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\AddItem.xaml.cs",
+              "RelativeToolTip": "MobilAppS\\MobilAppS\\AddItem.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:52:17.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddItem.xaml",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\AddItem.xaml",
+              "RelativeDocumentMoniker": "MobilAppS\\MobilAppS\\AddItem.xaml",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\AddItem.xaml",
+              "RelativeToolTip": "MobilAppS\\MobilAppS\\AddItem.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-27T11:48:30.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MobilAppS",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\MobilAppS.csproj",
+              "RelativeDocumentMoniker": "MobilAppS\\MobilAppS\\MobilAppS.csproj",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\MobilAppS.csproj",
+              "RelativeToolTip": "MobilAppS\\MobilAppS\\MobilAppS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T10:44:58.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\Item.cs",
+              "RelativeDocumentMoniker": "MobilAppS\\MobilAppS\\Item.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\Item.cs",
+              "RelativeToolTip": "MobilAppS\\MobilAppS\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:55:55.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\App.xaml",
               "RelativeDocumentMoniker": "MobilAppS\\MobilAppS\\App.xaml",
@@ -73,28 +154,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.g.cs",
               "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
               "RelativeDocumentMoniker": "MobilAppS\\MobilAppS\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
               "ToolTip": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
               "RelativeToolTip": "MobilAppS\\MobilAppS\\obj\\Debug\\netstandard2.0\\MainPage.xaml.g.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T14:02:37.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MobilAppS\\MobilAppS\\App.xaml.cs",
-              "ToolTip": "D:\\VisStudioCod\\VisStProg\\MobilAppS\\MobilAppS\\MobilAppS\\App.xaml.cs",
-              "RelativeToolTip": "MobilAppS\\MobilAppS\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T13:39:49.645Z",
               "EditorCaption": ""
             }
           ]

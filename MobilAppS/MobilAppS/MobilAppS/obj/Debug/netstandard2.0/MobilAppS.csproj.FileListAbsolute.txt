@@ -14,3 +14,4 @@ D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0
 D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\MobilAppS.dll
 D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\refint\MobilAppS.dll
 D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\MobilAppS.pdb
+D:\VisStudioCod\VisStProg\MobilAppS\MobilAppS\MobilAppS\obj\Debug\netstandard2.0\AddItem.xaml.g.cs

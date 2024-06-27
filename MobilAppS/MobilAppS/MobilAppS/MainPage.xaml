@@ -3,17 +3,37 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MobilAppS.MainPage">
 
-    <StackLayout>
-        <Label Text="registration" FontSize="25"/>
-        <Entry x:Name="nameField" Placeholder="Enter name"/>
-        <Entry x:Name="emailField" Placeholder="Enter email"/>
-        <Entry x:Name="passField" Placeholder="Enter password" IsPassword="True"/>
+    <!--<StackLayout BackgroundColor="#ededed">
+        <StackLayout BackgroundColor="CadetBlue">
+            <Label Text="Wearher" HorizontalOptions="Center" Margin="0,50,0,15" FontSize="30" TextColor="#091c33" FontAttributes="Bold"/>
+            <Image Margin="0,0,0,55" Source="https://st4.depositphotos.com/14883968/21324/i/600/depositphotos_213244388-stock-photo-landscape-glacial-black-lake-mountains.jpg"/>
+        </StackLayout>
+        <RelativeLayout>
+            <Frame RelativeLayout.YConstraint="-40" BackgroundColor="#fcfcfc" Margin="80,0" Padding="15" CornerRadius="15">
+                <StackLayout>
+                    <Entry x:Name="userInput" WidthRequest="200" Placeholder="Select city"/>
+                    <Button x:Name="getWeather" Clicked="getWeatherClicked" Text="Take" BackgroundColor="#e6b035" TextColor="#8f6b18" FontAttributes="Bold" />
+                </StackLayout>
+            </Frame>
+        </RelativeLayout>
+        <Label x:Name="resultLable" Text="" FontSize="25" HorizontalOptions="Center"  TextColor="#333" Margin="0,0,0,50"/>
+    </StackLayout>-->
+    <StackLayout Margin="15">
+        <Button Text="Add item" Clicked="AddItemButtom"/>
 
-        <Label Text="Are you sure?"/>
-        <CheckBox x:Name="chekField"/>
-
-        <Button x:Name ="buttonSend" Text="Send" Clicked="ButtonClick"/>
-        <Label x:Name="errorText" Text="" TextColor="Red" FontSize="15"/>
-
+        <CollectionView x:Name="itemsCollection">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Margin="0,0,0,45">
+                    <StackLayout>
+                        <Image Source="{Binding Image}"/>
+                        <Label Text="{Binding Title}"/>
+                        <Label Text="{Binding Desc}"/>
+                        <Label Text="{Binding Price}"/>
+                    </StackLayout>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
     </StackLayout>
 </ContentPage>
