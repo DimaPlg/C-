@@ -7,7 +7,6 @@ D:\VisStudioCod\VisStProg\Codewars\Codewars\obj\Debug\net8.0\Codewars.GeneratedM
 D:\VisStudioCod\VisStProg\Codewars\Codewars\obj\Debug\net8.0\Codewars.AssemblyInfoInputs.cache
 D:\VisStudioCod\VisStProg\Codewars\Codewars\obj\Debug\net8.0\Codewars.AssemblyInfo.cs
 D:\VisStudioCod\VisStProg\Codewars\Codewars\obj\Debug\net8.0\Codewars.csproj.CoreCompileInputs.cache
-D:\VisStudioCod\VisStProg\Codewars\Codewars\obj\Debug\net8.0\Codewars.sourcelink.json
 D:\VisStudioCod\VisStProg\Codewars\Codewars\obj\Debug\net8.0\Codewars.dll
 D:\VisStudioCod\VisStProg\Codewars\Codewars\obj\Debug\net8.0\refint\Codewars.dll
 D:\VisStudioCod\VisStProg\Codewars\Codewars\obj\Debug\net8.0\Codewars.pdb

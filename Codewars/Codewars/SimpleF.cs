@@ -10,23 +10,27 @@ namespace Codewars
     {
         public static bool HappyG(string str)
         {
-            string str1 = "gg";
-            bool result = true;
-            while (true) 
+            int res = 1;
+            int indexOfChar = 0;
+            int r = str.Length;
+            for (int i = 0; i < str.Length; i++)
             {
-                int indexOfChar = str.IndexOf(str1);
-                if (indexOfChar != -1)
+                if (str[i] == 'g' && str[i + 1] == 'g')
                 {
-                    str = str.Remove(indexOfChar, 2);
+                    res++;
                 }
-                else { break; }
+                else if (str[i] == 'g' && str[i + 1] != 'g')
+                {
+                    str = str.Remove(i - res, res);
+                    res = 1;
+                }
+
             }
-            foreach (char item in str) 
-            {
-                if (item == 'g')
-                    result = false;
-            }
-            return result;
+
+            if ((indexOfChar != -1))
+                return false;
+            else
+                return true;
         }
     }
 }
