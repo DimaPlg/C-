@@ -21,7 +21,8 @@ namespace WorkerStatus.Migrations
                     Patronymic = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Age = table.Column<int>(type: "int", nullable: false),
                     Position = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    HourlyRate = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
+                    HourlyRate = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
+                    Team = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {

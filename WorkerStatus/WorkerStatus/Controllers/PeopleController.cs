@@ -19,10 +19,49 @@ namespace WorkerStatus.Controllers
             _context = context;
         }
 
-        // GET: People
-        public async Task<IActionResult> Index()
+        // GET: Person
+        public async Task<IActionResult> Index(string personPosition, string searchString, string personTeam, string searchPersonTeam)
         {
-            return View(await _context.Person.ToListAsync());
+            if (_context.Person == null)
+            {
+                return Problem("Entity set 'WorcerStatus.Person'  is null.");
+            }
+
+            // Use LINQ to get list of position.
+            IQueryable<string> positionQuery = from p in _context.Person
+                                            orderby p.Position
+                                            select p.Position;
+
+            IQueryable<string> teamQuery = from t in _context.Person
+                                           orderby t.Team
+                                           select t.Team;
+
+            var persons = from p in _context.Person
+                         select p;
+
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                persons = persons.Where(s => s.Name!.Contains(searchString));
+            }
+
+            if (!string.IsNullOrEmpty(personPosition))
+            {
+                persons = persons.Where(x => x.Position == personPosition);
+            }
+
+            if (!string.IsNullOrEmpty(personTeam))
+            {
+                persons = persons.Where(x => x.Team == personTeam);
+            }
+
+            var personPositionVM = new WorkerStatistics
+            {
+                Positions = new SelectList(await positionQuery.Distinct().ToListAsync()),
+                Teams = new SelectList(await teamQuery.Distinct().ToListAsync()),
+                Persons = await persons.ToListAsync()
+            };
+
+            return View(personPositionVM);
         }
 
         // GET: People/Details/5
@@ -54,7 +93,7 @@ namespace WorkerStatus.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Surname,Patronymic,Age,Position,HourlyRate")] Person person)
+        public async Task<IActionResult> Create([Bind("Id,Name,Surname,Patronymic,Age,Position,HourlyRate,Team")] Person person)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +125,7 @@ namespace WorkerStatus.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Surname,Patronymic,Age,Position,HourlyRate")] Person person)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Surname,Patronymic,Age,Position,HourlyRate,Team")] Person person)
         {
             if (id != person.Id)
             {

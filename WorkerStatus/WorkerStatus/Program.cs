@@ -1,14 +1,23 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using WorkerStatus.Data;
+using WorkerStatus.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<WorkerStatusContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("WorkerStatusContext") /* ?? throw new InvalidOperationException("Connection string 'WorkerStatusContext' not found.")*/));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("WorkerStatusContext")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    SeeData.Initialize(services);
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

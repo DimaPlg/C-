@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WorkerStatus.Data;
 
@@ -10,9 +11,11 @@ using WorkerStatus.Data;
 namespace WorkerStatus.Migrations
 {
     [DbContext(typeof(WorkerStatusContext))]
-    partial class WorkerStatusContextModelSnapshot : ModelSnapshot
+    [Migration("20240704130858_Team")]
+    partial class Team
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

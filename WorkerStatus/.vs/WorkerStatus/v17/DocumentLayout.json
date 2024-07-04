@@ -3,40 +3,28 @@
   "WorkspaceRootPath": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\controllers\\titlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\controllers\\titlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\migrations\\20240701163536_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\migrations\\20240701163536_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\data\\workerstatuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\data\\workerstatuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\models\\personskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\models\\personskills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\views\\title\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\views\\title\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\models\\workerstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\models\\workerstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\views\\title\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\views\\title\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|d:\\visstudiocod\\visstprog\\workerstatus\\workerstatus\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64D35D88-C1EC-4EB0-9C42-01E40A03E48F}|WorkerStatus\\WorkerStatus.csproj|solutionrelative:workerstatus\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WorkerStatusContext.cs",
-              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Data\\WorkerStatusContext.cs",
-              "RelativeDocumentMoniker": "WorkerStatus\\Data\\WorkerStatusContext.cs",
-              "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Data\\WorkerStatusContext.cs",
-              "RelativeToolTip": "WorkerStatus\\Data\\WorkerStatusContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T16:40:16.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Program.cs",
-              "RelativeDocumentMoniker": "WorkerStatus\\Program.cs",
-              "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Program.cs",
-              "RelativeToolTip": "WorkerStatus\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAC7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T16:39:09.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20240701163536_InitialCreate.cs",
-              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Migrations\\20240701163536_InitialCreate.cs",
-              "RelativeDocumentMoniker": "WorkerStatus\\Migrations\\20240701163536_InitialCreate.cs",
-              "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Migrations\\20240701163536_InitialCreate.cs",
-              "RelativeToolTip": "WorkerStatus\\Migrations\\20240701163536_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T16:35:36.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PeopleController.cs",
-              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Controllers\\PeopleController.cs",
-              "RelativeDocumentMoniker": "WorkerStatus\\Controllers\\PeopleController.cs",
-              "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Controllers\\PeopleController.cs",
-              "RelativeToolTip": "WorkerStatus\\Controllers\\PeopleController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBwAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T16:34:14.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Models\\Person.cs",
               "RelativeDocumentMoniker": "WorkerStatus\\Models\\Person.cs",
               "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Models\\Person.cs",
               "RelativeToolTip": "WorkerStatus\\Models\\Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T16:25:32.046Z",
+              "WhenOpened": "2024-07-04T15:25:13.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Welcome.cshtml",
-              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Views\\Title\\Welcome.cshtml",
-              "RelativeDocumentMoniker": "WorkerStatus\\Views\\Title\\Welcome.cshtml",
-              "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Views\\Title\\Welcome.cshtml",
-              "RelativeToolTip": "WorkerStatus\\Views\\Title\\Welcome.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:21:45.556Z",
+              "DocumentIndex": 0,
+              "Title": "PersonSkills.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Models\\PersonSkills.cs",
+              "RelativeDocumentMoniker": "WorkerStatus\\Models\\PersonSkills.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Models\\PersonSkills.cs",
+              "RelativeToolTip": "WorkerStatus\\Models\\PersonSkills.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:25:06.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WorkerStatus\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WorkerStatus\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:06:51.346Z",
+              "WhenOpened": "2024-07-04T15:14:48.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Views\\Title\\Index.cshtml",
-              "RelativeDocumentMoniker": "WorkerStatus\\Views\\Title\\Index.cshtml",
-              "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Views\\Title\\Index.cshtml",
-              "RelativeToolTip": "WorkerStatus\\Views\\Title\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T16:06:04.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TitleController.cs",
-              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Controllers\\TitleController.cs",
-              "RelativeDocumentMoniker": "WorkerStatus\\Controllers\\TitleController.cs",
-              "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Controllers\\TitleController.cs",
-              "RelativeToolTip": "WorkerStatus\\Controllers\\TitleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "DocumentIndex": 3,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "WorkerStatus\\Controllers\\PeopleController.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "WorkerStatus\\Controllers\\PeopleController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDsAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T15:50:09.315Z",
+              "WhenOpened": "2024-07-04T12:34:03.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkerStatistics.cs",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Models\\WorkerStatistics.cs",
+              "RelativeDocumentMoniker": "WorkerStatus\\Models\\WorkerStatistics.cs",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Models\\WorkerStatistics.cs",
+              "RelativeToolTip": "WorkerStatus\\Models\\WorkerStatistics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:29:19.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Views\\People\\Index.cshtml",
+              "RelativeDocumentMoniker": "WorkerStatus\\Views\\People\\Index.cshtml",
+              "ToolTip": "D:\\VisStudioCod\\VisStProg\\WorkerStatus\\WorkerStatus\\Views\\People\\Index.cshtml",
+              "RelativeToolTip": "WorkerStatus\\Views\\People\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-04T12:20:54.813Z",
               "EditorCaption": ""
             }
           ]
